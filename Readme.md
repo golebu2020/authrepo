@@ -2,6 +2,6 @@
 
 ## Stashing
 
-## Branching
+## ranching
 
 ## Merge Conflict
