@@ -1,4 +1,4 @@
-## Commit
+## Committing
 
 ## Stashing
 
