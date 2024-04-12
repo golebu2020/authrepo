@@ -1,0 +1,10 @@
+{
+    "name": "sdk-container",
+    "image": "ubuntu:latest",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}
