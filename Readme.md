@@ -27,7 +27,7 @@
   </summary>
   
   ```py
-    puts "hello world"
+    print ("hello world")
   ```
 </details>
 
