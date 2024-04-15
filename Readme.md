@@ -8,6 +8,9 @@
 
 ## Rebasing
 
+
+## Sub 1
+
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
@@ -38,6 +41,8 @@
 ```
 </details>
 
+## Sub 2
+
 | First Name | Last Name | Email |
 | :---------- | :---------: | ------: |
 | Chinedu | Olebu | cgolebu@gmail.com |
@@ -52,6 +57,8 @@
 1. Three
 1. Four
 
-~strikethrough~
+~~strikethrough~~
+
+## Sub 2
 
 
