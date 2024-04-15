@@ -29,8 +29,6 @@
   ```py
     print ("hello world")
   ```
-</details>
-
 ```mermaid
   graph TD;
   A --> B;
@@ -38,3 +36,6 @@
   B --> D;
   C --> D;
 ```
+</details>
+
+
