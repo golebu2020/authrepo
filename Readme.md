@@ -29,3 +29,11 @@
     puts "hello world"
   ```
 </details>
+
+```marmaid
+graph TD;
+A --> B;
+A --> C;
+B --> D;
+C --> D;
+```
