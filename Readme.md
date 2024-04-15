@@ -26,7 +26,7 @@
     Tips for collapsed sections
   </summary>
   
-  ```ruby
+  ```py
     puts "hello world"
   ```
 </details>
