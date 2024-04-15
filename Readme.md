@@ -18,7 +18,7 @@
 | git status | git status | git status |
 | git diff | git diff | git diff |
 
-```sh
+```ruby
     git clone
 ```
 <details>
