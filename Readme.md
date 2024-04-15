@@ -18,6 +18,9 @@
 | git status | git status | git status |
 | git diff | git diff | git diff |
 
+```sh
+    git clone
+```
 <details>
   <summary>
     Tips for collapsed sections
