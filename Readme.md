@@ -33,7 +33,8 @@
   ```
 </details>
 
-```marmaid
+```
+  marmaid
   graph TD;
   A --> B;
   A --> C;
