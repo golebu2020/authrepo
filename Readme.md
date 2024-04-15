@@ -18,7 +18,7 @@
 | git status | git status | git status |
 | git diff | git diff | git diff |
 
-```ruby
+```sh
     git clone
 ```
 <details>
@@ -26,7 +26,7 @@
     Tips for collapsed sections
   </summary>
   
-  ```sh 
+  ```ruby
     puts "hello world"
   ```
 </details>
