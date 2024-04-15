@@ -26,7 +26,6 @@
   You can add text within a collapsed section.
   You can add an image or code block too.
   ```
-    ruby
     puts "hello world"
   ```
 </details>
