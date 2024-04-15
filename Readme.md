@@ -1,12 +1,5 @@
-## Committing!!!!
-
-## Stashing
-
-## Branching
-
-## Merge Conflict
-
-## Rebasing
+- Sub 1
+- Sub 2
 
 
 ## Sub 1
@@ -41,7 +34,7 @@
 ```
 </details>
 
-## Sub 2
+## Sub 1
 
 | First Name | Last Name | Email |
 | :---------- | :---------: | ------: |
