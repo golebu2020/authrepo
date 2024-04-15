@@ -38,4 +38,9 @@
 ```
 </details>
 
+| First Name | Last Name | Email |
+| ---------- | --------- | ------ |
+| Chinedu | Olebu | cgolebu@gmail.com |
+| Chika | Olebu | chikaolebu@gmail.com |
+
 
